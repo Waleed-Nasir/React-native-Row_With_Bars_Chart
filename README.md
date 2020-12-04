@@ -24,7 +24,7 @@ const tableItem = {
 }
 
 
-
+# Usage 
 <FinancialEPAChat data={tableItem} />
 
 
