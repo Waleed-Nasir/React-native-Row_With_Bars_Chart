@@ -3,7 +3,7 @@
 
 
 
-# Usage 
+# Data 
 
 const tableItem = {
 
@@ -25,11 +25,12 @@ const tableItem = {
 
 
 # Usage 
-<FinancialEPAChat data={tableItem} />
+
+"<FinancialEPAChat data={tableItem} />"
 
 
 
-
+# Demo 
 ![Demo](https://raw.githubusercontent.com/Waleed-Nasir/React-native-Row_With_Bars_Chart/main/Screenshot%202020-12-04%20at%209.11.47%20PM.png)
 
 
