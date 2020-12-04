@@ -5,7 +5,7 @@
 
 # Data 
 
-const tableItem = {
+    const tableItem = {
 
     x: ['', '3.88', '3.88', '3.88', '3.88', ''], y: ['1.89', '1.89', '1.89', '1.89'],
     item: [
@@ -21,12 +21,14 @@ const tableItem = {
             point1: null, point2: 19, point3: 12, point4: null, point5: null, point6: null,
         }
     ]
-}
+    }
 
 
 # Usage 
+                 <View style={{ flex:1 }}>
+                      <FinancialEPAChat data={tableItem} />
+                  </View>
 
-"<FinancialEPAChat data={tableItem} />"
 
 
 
